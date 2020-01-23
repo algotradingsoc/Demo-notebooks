@@ -1,4 +1,4 @@
-# 2020_Notebooks
+# Demo_Notebooks
 Python notebooks used in weekly meeting for AlgoSoc in year 2019/2020
 
 We recommend uploading the notebooks to Google drive and run in Google Colab.
