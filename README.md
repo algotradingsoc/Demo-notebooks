@@ -6,7 +6,6 @@ We recommend running the notebooks in Google Colab
 Contact information:
 
 Algotrading Society: icu-algotrading@imperial.ac.uk  
-Thomas Wong: MW4315@ic.ac.uk
 
 Links to the notebooks
 
